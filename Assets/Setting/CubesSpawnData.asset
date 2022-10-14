@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8d8416ba6d0873641ba7ec0531a27b78, type: 3}
+  m_Name: CubesSpawnData
+  m_EditorClassIdentifier: 
+  _cubePrefab: {fileID: 3653731963150513183, guid: 62701446714a0c744bc623777d390812, type: 3}
+  _spawnCube: 1
+  _speedCube: 10
+  _distanceCube: 40
